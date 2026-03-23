@@ -1,16 +1,30 @@
-## Hi there 👋
+🚀 Trideva Interactive | Game Developer
 
-<!--
-**SachinSNair07/SachinSNair07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Sachin 👋
+BCA student building realistic simulation games using Unreal Engine.
 
-Here are some ideas to get you started:
+🎮 Main Project
+🚌 TVM Bus Simulator
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A Kerala-based realistic bus driving simulator.
+
+Current Progress:
+
+✅ Vehicle system completed
+✅ Driving working
+🔄 NPC passenger system (in progress)
+🔄 Conductor system
+🔄 Route: Vizhinjam → East Fort
+
+🎯 Launch Target: November 2025
+
+🛠 Tech Stack
+Unreal Engine 4
+Unity
+Blender
+C++ / Blueprints
+🌐 Links
+Website: (ADD YOUR LINK HERE — don’t leave empty)
+📈 Goal
+
+Build and launch successful indie games and grow Trideva Interactive.
