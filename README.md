@@ -8,15 +8,7 @@ BCA student building realistic simulation games using Unreal Engine.
 
 A Kerala-based realistic bus driving simulator.
 
-Current Progress:
-
-✅ Vehicle system completed
-✅ Driving working
-🔄 NPC passenger system (in progress)
-🔄 Conductor system
-🔄 Route: Vizhinjam → East Fort
-
-🎯 Launch Target: March 2025
+🎯 Launch Target: March 2026
 
 🛠 Tech Stack
 Unreal Engine 4
