@@ -16,7 +16,7 @@ Current Progress:
 🔄 Conductor system
 🔄 Route: Vizhinjam → East Fort
 
-🎯 Launch Target: November 2025
+🎯 Launch Target: March 2025
 
 🛠 Tech Stack
 Unreal Engine 4
@@ -24,7 +24,7 @@ Unity
 Blender
 C++ / Blueprints
 🌐 Links
-Website: (ADD YOUR LINK HERE — don’t leave empty)
+Website: 
 📈 Goal
 
 Build and launch successful indie games and grow Trideva Interactive.
