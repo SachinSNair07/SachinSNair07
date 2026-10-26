@@ -8,8 +8,6 @@ BCA student building realistic simulation games using Unreal Engine.
 
 A Kerala-based realistic bus driving simulator.
 
-🎯 Launch Target: March 2026
-
 🛠 Tech Stack
 Unreal Engine 4
 Unity
